@@ -29,6 +29,7 @@ target/
 /nbdist/
 /.nb-gradle/
 build/
+efak-web/deploy
 
 ### VS Code ###
 .vscode/
